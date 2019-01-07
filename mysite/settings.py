@@ -25,7 +25,7 @@ SECRET_KEY = '3*oka2of=fj(yc#z3*^vic7q9h82$=lphr+k+*n1%w%8t%*y$o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
